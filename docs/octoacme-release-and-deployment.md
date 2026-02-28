@@ -14,6 +14,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Release notes drafted
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- **Release Manager** coordinates the deployment window and obtains QA Lead sign-off via the [Quality & Release Readiness Checklist](./octoacme-quality-and-release-readiness-checklist.md) before any release proceeds.
+- **QA Lead** completes quality sections of the checklist and provides formal sign-off confirming the Definition of Done is satisfied.
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
