@@ -10,7 +10,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Activities
 1. Kickoff meeting with stakeholders and delivery team
-2. Create prioritized backlog with acceptance criteria
+2. Create prioritized backlog with acceptance criteria — **Business Analyst** leads requirements elicitation and documents acceptance criteria in collaboration with the Product Manager; **UX/UI Designer** provides design requirements and flow diagrams for UI-facing stories
 3. Estimate scope (T-shirt sizing or story points)
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
@@ -41,3 +41,5 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Acceptance criteria defined by Business Analyst and reviewed by QA Lead for testability
+- [ ] UX/UI design specs attached to relevant backlog items before development begins

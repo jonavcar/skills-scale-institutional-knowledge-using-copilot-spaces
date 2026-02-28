@@ -22,6 +22,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- **QA Lead** owns the `QA` column on the project board; items move from `In Review` to `QA` once a PR is merged, and to `Done` only after the QA Lead confirms acceptance criteria are met and the [Quality & Release Readiness Checklist](./octoacme-quality-and-release-readiness-checklist.md) quality sections are complete.
+- QA Lead reports blocking defects in the weekly delivery sync; unresolved blockers are escalated via the PM before a release window is confirmed.
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -38,3 +40,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] QA Lead assigned and test plan drafted before sprint begins
+- [ ] [Quality & Release Readiness Checklist](./octoacme-quality-and-release-readiness-checklist.md) completed before each release
